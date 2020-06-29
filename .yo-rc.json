@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "by.iba.masiuk",
+      "nativeLanguage": "ru"
+    },
+    "jhipsterVersion": "6.10.0",
+    "applicationType": "monolith",
+    "baseName": "JHipster2020",
+    "packageName": "by.iba.masiuk",
+    "packageFolder": "by/iba/masiuk",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDgyYTkxYzY4ZGMzYWQxNzIxYjgyYzE5ZjY1MWU4MjA5ODZhNWU1ZjAzZjc3ZDY5NDdkYWRmOWFhYTI5NzkwMThkM2Q2YzY5NmY4MGMzODc1MDE4MTY1NWViMDZhZTNiNTkwYjAzOWY0ODlmMzg4NjQ3Y2RhNGJkMTdkNDhkZjc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1593435996352,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "ru",
+    "languages": ["ru"],
+    "blueprints": []
+  }
+}
