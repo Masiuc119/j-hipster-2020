@@ -1,0 +1,11 @@
+{
+  "jHipster2020App": {
+    "Complexity": {
+      "null": "",
+      "EXTREME": "EXTREME",
+      "HARD": "HARD",
+      "NORMAL": "NORMAL",
+      "EASY": "EASY"
+    }
+  }
+}
